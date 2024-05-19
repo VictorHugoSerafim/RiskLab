@@ -1,0 +1,24 @@
+- Compra Carta: Você pode comprar mais uma carta, seja do monte de compras ou de descarte
+- Compra Carta: Você pode comprar mais uma carta, seja do monte de compras ou de descarte
+- Compra Carta: Você pode comprar mais uma carta, seja do monte de compras ou de descarte
+- Compra Carta: Você pode comprar mais uma carta, seja do monte de compras ou de descarte
+- Bloquear: Bloqueie a vez do procimo jogador 
+- Bloquear: Bloqueie a vez do procimo jogador
+- Bloquear: Bloqueie a vez do procimo jogador
+- Bloquear: Bloqueie a vez do procimo jogador
+- Voltar: Inverte o sendito do jogo
+- Voltar: Inverte o sendito do jogo
+- Voltar: Inverte o sendito do jogo
+- Voltar: Inverte o sendito do jogo
+- Troca Carta: Escolha um oponente e sem ver as cartas da mão dele escolha uma e troque por uma da sua mão
+- Troca Carta: Escolha um oponente e sem ver as cartas da mão dele escolha uma e troque por uma da sua mão
+- Troca Carta: Escolha um oponente e sem ver as cartas da mão dele escolha uma e troque por uma da sua mão
+- Troca Carta: Escolha um oponente e sem ver as cartas da mão dele escolha uma e troque por uma da sua mão
+- Voltar Carta: Escolha uma carta de boas praticas de um oponente para voltar para a mão dele  
+- Voltar Carta: Escolha uma carta de boas praticas de um oponente para voltar para a mão dele 
+- Voltar Carta: Escolha uma carta de boas praticas de um oponente para voltar para a mão dele 
+- Voltar Carta: Escolha uma carta de boas praticas de um oponente para voltar para a mão dele 
+- Remove Carta: Escolha uma carta de boas praticas de um oponente para descartar no monte de descarte
+- Remove Carta: Escolha uma carta de boas praticas de um oponente para descartar no monte de descarte
+- Remove Carta: Escolha uma carta de boas praticas de um oponente para descartar no monte de descarte
+- Remove Carta: Escolha uma carta de boas praticas de um oponente para descartar no monte de descarte

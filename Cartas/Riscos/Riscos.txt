@@ -1,0 +1,38 @@
+    Rsicos terão um nivel de periculosidade classificado por caveiras, podendo ter 1, 2 ou 3 caveiras, 
+sendo que quando mais caveiras tiver mais perigoso é, e portanto terá uma pontuação maior.
+
+    Os riscos são divididos em 4 tipos sendo eles:
+        - Riscos Químicos repre
+
+
+    • Riscos Químicos 
+- Substancia Inflamável: Uma substancia inflamável é derramado, resultando em risco de incêndio e queimaduras.
+- Substancia Ácida: Uma substancia ácida é derramado, causando danos aos materiais e representando um perigo para os trabalhadores.
+- Vapores Tóxicos: Exposição a vapores químicos tóxicos leva à intoxicação dos trabalhadores.
+- Ingestão de Produto Químico: Um trabalhador ingere acidentalmente uma substância química tóxica.
+- Reação Química Exotérmica Descontrolada: Uma reação exotérmica ocorre de forma descontrolada, resultando em liberação excessiva de calor e risco de incêndio ou explosão.
+- Reação Química de Combustão Descontrolada: Uma reação de combustão ocorre de forma descontrolada, resultando em risco de incêndio ou explosão.
+
+    • Riscos Biológicos
+- Bactérias: Uma cultura de bactéria é derramada ou liberada acidentalmente, representando um risco de contaminação para os trabalhadores.
+- Vírus: Uma cultura de vírus é derramada ou liberada acidentalmente, representando um risco de contaminação para os trabalhadores.
+- Parasitas: Uma cultura de parasitas é derramada ou liberada acidentalmente, representando um risco de contaminação para os trabalhadores.
+- Esporos: Esporos de microrganismo são inalados, levando à infecção.
+- Alérgenos: Alérgenos no ar causa reações alérgicas nos trabalhadores.
+- Contato com Equipamento Contaminado: Utilizar um equipamento contaminado, representando um risco de contaminação de doenças.
+
+    • Riscos Físico 
+- Pressão Elevada: Reações químicas que envolvem gases ou substâncias sob pressão podem representar riscos de explosão se os recipientes não forem manipulados corretamente ou se houver falhas nos equipamentos.
+- Ruído Excessivo: Os trabalhadores são expostos a ruído excessivo, resultando em danos auditivos.
+- Baixas Temperaturas: Um trabalhador é exposto a temperaturas extremamente baixas, resultando em lesões por congelamento.
+- Altas Temperaturas: Um trabalhador é exposto a temperaturas extremamente Altas, resultando em lesões por queimadura.
+- Radiações: Alguns experimentos químicos podem envolver o uso de radiação ionizante, como raios-X, que apresentam riscos de exposição à radiação se não forem manuseados adequadamente.
+- Radiação Ultravioleta (UV): Alguns experimentos químicos podem envolver o uso de fontes de radiação UV, que podem representar riscos de danos à pele e aos olhos se os trabalhadores não utilizarem proteção adequada, como óculos de proteção e roupas de manga longa.
+
+    • Riscos de Acidentes
+- Falha de equipamentos de segurança: Equipamentos de segurança, como capelas de exaustão, chuveiros de emergência e lava-olhos, podem falhar se não forem mantidos regularmente e submetidos a inspeções de segurança adequadas.
+- Acidentes com equipamentos: Equipamentos de laboratório, como centrífugas, autoclaves e espectrofotômetros, podem apresentar riscos de acidentes se não forem operados de acordo com as instruções do fabricante ou se estiverem danificados.
+- Estrutura Instável: A estrutura física do laboratório, incluindo prateleiras, bancadas e equipamentos, pode se tornar instável devido a sobrecarga, desgaste ou má manutenção, representando riscos de quedas de objetos ou colapsos estruturais.
+- Eletrocussão: O uso de equipamentos elétricos no laboratório pode representar riscos de choque elétrico se não forem instalados ou utilizados corretamente.
+- Incêndios e Explosões: O manuseio de substâncias inflamáveis e reagentes químicos pode resultar em incêndios ou explosões se não forem manipulados corretamente.
+- Lesões por cortes e perfurações: O manuseio de vidrarias de laboratório, como pipetas, buretas e vidros de reação, pode resultar em cortes e perfurações se não forem manipulados com cuidado.

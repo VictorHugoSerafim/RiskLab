@@ -1,16 +1,15 @@
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+Titulo: Incidente
+Descrição: Compre a primeira carta do monte de risco e coloque-o em jogo
+Quantidade: 4
+
+Titulo: Incidente leve
+Descrição: Procure no monte de risco pela primeira carta com 1 caveira e coloque-a em jogo
+Quantidade: 4
+
+Titulo: Incidente moderado
+Descrição: Procure no monte de risco pela primeira carta com 2 caveira e coloque-a em jogo
+Quantidade: 4
+
+Titulo: Incidente Grave
+Descrição: Procure no monte de risco pela primeira carta com 3 caveira e coloque-a em jogo
+Quantidade: 4

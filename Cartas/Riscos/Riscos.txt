@@ -1,38 +1,127 @@
-    Rsicos terão um nivel de periculosidade classificado por caveiras, podendo ter 1, 2 ou 3 caveiras, 
-sendo que quando mais caveiras tiver mais perigoso é, e portanto terá uma pontuação maior.
+# Riscos Químicos 
+    • 1 Caveira 
+        Titulo: Substancia Inflamável
+        Descrição: Uma substancia inflamável é derramado, resultando em risco de incêndio
+        Poder: 10
 
-    Os riscos são divididos em 4 tipos sendo eles:
-        - Riscos Químicos repre
+        Titulo: Substancia Ácida
+        Descrição: Uma substancia ácida é derramado, resultando em risco de queimadura e corrosão
+        Poder: 10
+
+    • 2 Caveiras
+        Titulo: Vapores Tóxicos
+        Descrição: Uma reação dos componentes libera vapores químicos tóxicos, resultando em risco de 
+        intoxicação.
+        Poder: 20
+
+        Titulo: Ingestão de Produto Químico
+        Descrição: A insgestão acidental de uma substância química, resulta em um de intoxicação.
+        Poder: 20
+
+    • 3 Caveiras
+
+        Titulo: Reação Química Exotérmica Descontrolada
+        Descrição: Uma reação exotérmica ocorre de forma descontrolada, resultando em liberação excessiva 
+        de calor com risco de incêndio ou explosão
+        Poder: 30
+        
+        Titulo: Reação Química de Combustão Descontrolada
+        Descrição: Uma reação de combustão ocorre de forma descontrolada, resultando em risco de incêndio 
+        ou explosão
+        Poder: 30
+
+# Riscos Biológicos
+    • 1 caveira
+        Titulo: Bactérias
+        Descrição: Uma cultura de bactéria é derramada ou liberada acidentalmente, representando um risco 
+        de contaminação
+        Poder: 10
+
+        Titulo: Vírus
+        Descrição: Uma cultura de vírus é derramada ou liberada acidentalmente, representando um risco 
+        de contaminação
+        Poder: 10 
+
+        Titulo: Parasitas 
+        Descrição: Uma cultura de parasitas é derramada ou liberada acidentalmente, representando um 
+        risco de contaminação
+        Poder: 10
+
+    • 2 Caveiras
+        Titulo: Esporos
+        Descrição: Esporos de microrganismo são liberados no ar, representando um risco de infecção
+        Poder: 20
+
+        Titulo: Alérgenos
+        Descrição: Alérgenos são liberados no ar, representando um risco de reações alérgicas
+        Poder: 20
+
+    • 3 Caveiras
+        Titulo: Contato com Equipamento Contaminado
+        Descrição: Utilizar um equipamento contaminado, representando um risco de contaminação de doenças
+        Poder: 30
+
+# Riscos Físico 
+    • 1 Caveira
+        Titulo: Pressão Elevada
+        Descrição: Reação química com gases ou substâncias sob pressão, representar um riscos de explosão 
+        Poder: 10 
+
+        Titulo: Ruído Excessivo
+        Descrição: Os trabalhadores são expostos a ruído excessivo, resultando em danos auditivos
+        Poder: 10 
+
+    • 2 Caveiras
+        Titulo: Baixas Temperaturas
+        Descrição: Os trabalhadores são expostos a temperaturas extremamente baixas, resultando em lesões 
+        por congelamento
+        Poder: 20
+
+        Titulo: Altas Temperaturas
+        Descrição: Os trabalhadores são expostos a temperaturas extremamente Altas, resultando em lesões 
+        por queimadura
+        Poder: 20
+
+    •3 Caveiras
+        Titulo: Radiação Ultravioleta (UV)
+        Descrição: Os trabalhadores de alguma maneira são expostos a radiação Ultravioleta (UV), resultando 
+        em graves danos
+        Poder: 30
+
+        Titulo: Radiação Ionizante
+        Descrição: Os trabalhadores de alguma maneira são expostos a radiação ionizante, resultando em 
+        graves sintomas
+        Poder: 40
 
 
-    • Riscos Químicos 
-- Substancia Inflamável: Uma substancia inflamável é derramado, resultando em risco de incêndio e queimaduras.
-- Substancia Ácida: Uma substancia ácida é derramado, causando danos aos materiais e representando um perigo para os trabalhadores.
-- Vapores Tóxicos: Exposição a vapores químicos tóxicos leva à intoxicação dos trabalhadores.
-- Ingestão de Produto Químico: Um trabalhador ingere acidentalmente uma substância química tóxica.
-- Reação Química Exotérmica Descontrolada: Uma reação exotérmica ocorre de forma descontrolada, resultando em liberação excessiva de calor e risco de incêndio ou explosão.
-- Reação Química de Combustão Descontrolada: Uma reação de combustão ocorre de forma descontrolada, resultando em risco de incêndio ou explosão.
+# Riscos de Acidentes
+    • 1 Caveira
+        Titulo: Acidentes com equipamentos
+        Descrição: Mal uso de equipamentos como centrífugas, autoclaves e espectrofotômetros, representando riscos 
+        de acidente
+        Poder: 10 
 
-    • Riscos Biológicos
-- Bactérias: Uma cultura de bactéria é derramada ou liberada acidentalmente, representando um risco de contaminação para os trabalhadores.
-- Vírus: Uma cultura de vírus é derramada ou liberada acidentalmente, representando um risco de contaminação para os trabalhadores.
-- Parasitas: Uma cultura de parasitas é derramada ou liberada acidentalmente, representando um risco de contaminação para os trabalhadores.
-- Esporos: Esporos de microrganismo são inalados, levando à infecção.
-- Alérgenos: Alérgenos no ar causa reações alérgicas nos trabalhadores.
-- Contato com Equipamento Contaminado: Utilizar um equipamento contaminado, representando um risco de contaminação de doenças.
+    • 2 Caveiras
+        Titulo: Falha de equipamentos de segurança
+        Descrição: Falha em equipamentos como capelas de exaustão, chuveiros de emergência e lava-olhos, representando 
+        um grande risco
+        Poder: 20
 
-    • Riscos Físico 
-- Pressão Elevada: Reações químicas que envolvem gases ou substâncias sob pressão podem representar riscos de explosão se os recipientes não forem manipulados corretamente ou se houver falhas nos equipamentos.
-- Ruído Excessivo: Os trabalhadores são expostos a ruído excessivo, resultando em danos auditivos.
-- Baixas Temperaturas: Um trabalhador é exposto a temperaturas extremamente baixas, resultando em lesões por congelamento.
-- Altas Temperaturas: Um trabalhador é exposto a temperaturas extremamente Altas, resultando em lesões por queimadura.
-- Radiações: Alguns experimentos químicos podem envolver o uso de radiação ionizante, como raios-X, que apresentam riscos de exposição à radiação se não forem manuseados adequadamente.
-- Radiação Ultravioleta (UV): Alguns experimentos químicos podem envolver o uso de fontes de radiação UV, que podem representar riscos de danos à pele e aos olhos se os trabalhadores não utilizarem proteção adequada, como óculos de proteção e roupas de manga longa.
+        Titulo: Estrutura Instável
+        Descrição: Estrutura física do laboratório como prateleiras e bancadas instáveis, representando riscos 
+        de quedas de objetos ou equipamentos
+        Poder:20
 
-    • Riscos de Acidentes
-- Falha de equipamentos de segurança: Equipamentos de segurança, como capelas de exaustão, chuveiros de emergência e lava-olhos, podem falhar se não forem mantidos regularmente e submetidos a inspeções de segurança adequadas.
-- Acidentes com equipamentos: Equipamentos de laboratório, como centrífugas, autoclaves e espectrofotômetros, podem apresentar riscos de acidentes se não forem operados de acordo com as instruções do fabricante ou se estiverem danificados.
-- Estrutura Instável: A estrutura física do laboratório, incluindo prateleiras, bancadas e equipamentos, pode se tornar instável devido a sobrecarga, desgaste ou má manutenção, representando riscos de quedas de objetos ou colapsos estruturais.
-- Eletrocussão: O uso de equipamentos elétricos no laboratório pode representar riscos de choque elétrico se não forem instalados ou utilizados corretamente.
-- Incêndios e Explosões: O manuseio de substâncias inflamáveis e reagentes químicos pode resultar em incêndios ou explosões se não forem manipulados corretamente.
-- Lesões por cortes e perfurações: O manuseio de vidrarias de laboratório, como pipetas, buretas e vidros de reação, pode resultar em cortes e perfurações se não forem manipulados com cuidado.
+    • 3 Caveiras
+        Titulo: Eletrocussão
+        Descrição: O uso de equipamentos elétricos no laboratório, representa riscos de choque elétrico
+        Poder: 30
+
+        Titulo: Incêndios e Explosões
+        Descrição: O manuseio de substâncias inflamáveis e reagentes químicos, representa risco de incêndios ou 
+        explosões 
+        Poder: 30
+
+        Titulo: Lesões por cortes e perfurações
+        Descrição: O manuseio de vidrarias de laboratório, representa risco de cortes e perfurações 
+        Poder: 30

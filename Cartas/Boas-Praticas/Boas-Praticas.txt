@@ -9,19 +9,23 @@
     P.M: 5
     P.C: 5
 
-    Titulo: Acessórios 
-    Descrição: Não usar colar, anéis, pulseiras, brincos e piercing dentro do laboratório
-    P.M: 5
-    P.C: 3
-
-    Titulo: Lentes de contato
-    Descrição: Não utilizar lentes de contato no laboratório, mas caso seja necessário, utilizar óculos 
-    de proteção e não manipular as lentes
+    Titulo: Óculos de proteção
+    Descrição: Utilizar óculos de proteção dentro do laboratório
     P.M: 5
     P.C: 5
 
-    Titulo: Cabelos
-    Descrição: Manter os cabelos presos dentro do laboratório
+    Titulo: Mascara
+    Descrição: Utilizar mascara dentro do laboratório
+    P.M: 5
+    P.C: 3
+
+    Titulo: Luvas
+    Descrição: Sempre usar luvas ao manipular materiais
+    P.M: 5
+    P.C: 5
+
+    Titulo: Acessórios 
+    Descrição: Não usar colar, anéis, pulseiras, brincos e piercing dentro do laboratório
     P.M: 5
     P.C: 3
 
@@ -30,10 +34,7 @@
     P.M: 5
     P.C: 3
 
-    Titulo: Luvas
-    Descrição: Sempre usar luvas ao manipular materiais potencialmente infectantes
-    P.M: 5
-    P.C: 5
+
 
 # Conhecimento
     Titulo: Perigo dos produtos

@@ -1,35 +1,146 @@
-    • Vestimenta 
-- Utilizar jaleco apenas dentro do laboratório
-- Utilizar sempre sapato fechado
-- Não usar colar, anéis, pulseiras, brincos e piercing dentro do laboratório
-- Não utilizar lentes de contato no laboratório, mas caso seja necessário, utilizar óculos de proteção e não manipular as lentes
-- Manter os cabelos presos
-- Manter as unhas curtas e limpas
-- Sempre usar luvas ao manipular materiais potencialmente infectantes
+# Vestimenta 
+    Titulo: Jaleco
+    Descrição: Utilizar jaleco no laboratório e apenas dentro dele
+    P.M: 5
+    P.C: 5
 
-    • Conhecimento
-- Conhecimento prévio dos perigos oferecidos pelos produtos químicos utilizados no laboratório
-- Conhecimento prévio de onde estão os EPCs e como utilizá-los
-- Manter protocolo de rotina acessível em caso de acidentes
-- Fichas de Informações de Segurança de Produtos Químicos (FISPQ) em local visível e de fácil acesso
-- Produtos químicos devidamente identificados e armazenados
+    Titulo: Sapato 
+    Descrição: Utilizar sapato fechado no laboratório
+    P.M: 5
+    P.C: 5
 
-    • Comportamento 
-- Evitar trabalhar sozinho no laboratório
-- Usar corretamente os equipamentos
-- Não comer, beber, preparar alimentos ou utilizar cosméticos no laboratório
-- Não atender celular quando estiver dentro do laboratório
-- Não manipular objetos de uso coletivo como, por exemplo, maçanetas e telefone, enquanto estiver usando luvas
-- Evitar transportar materiais químicos ou biológicos de um lugar para outro no laboratório
-- Evitar levar as mãos à boca, nariz, cabelo, olhos e ouvidos no laboratório
-- Lavar as mãos antes e após os experimentos
-- Manter a organização na bancada
-- Higienização e limpeza adequada do ambiente
+    Titulo: Acessórios 
+    Descrição: Não usar colar, anéis, pulseiras, brincos e piercing dentro do laboratório
+    P.M: 5
+    P.C: 3
 
-    • Laboratorio
-- O laboratório deve possuir os devidos EPCs
-- O laboratório deve ser bem iluminado
-- O laboratório deve possuir a sinalização de emergência
-- No laboratório as tomdas devem estar identificadas quanto à voltagem delas
-- No laboratório os equipamentos de risco devem estar dispostos em área segura
-- No laboratório os extintores devem estar dentro do prazo de validade e com pressão dentro dos limites de normalidade
+    Titulo: Lentes de contato
+    Descrição: Não utilizar lentes de contato no laboratório, mas caso seja necessário, utilizar óculos 
+    de proteção e não manipular as lentes
+    P.M: 5
+    P.C: 5
+
+    Titulo: Cabelos
+    Descrição: Manter os cabelos presos dentro do laboratório
+    P.M: 5
+    P.C: 3
+
+    Titulo: Unhas
+    Descrição: Manter as unhas curtas e limpas dentro do laboratório
+    P.M: 5
+    P.C: 3
+
+    Titulo: Luvas
+    Descrição: Sempre usar luvas ao manipular materiais potencialmente infectantes
+    P.M: 5
+    P.C: 5
+
+# Conhecimento
+    Titulo: Perigo dos produtos
+    Descrição: Conhecimento prévio dos perigos oferecidos pelos produtos químicos utilizados no laboratório
+    P.M: 5
+    P.C: 3
+
+    Titulo: Localização dos EPCs
+    Descrição: Conhecimento prévio de onde estão os EPCs e como utilizá-los
+    P.M: 5
+    P.C: 3
+
+    Titulo: Protocolo de rotina
+    Descrição: Manter protocolo de rotina acessível em caso de acidentes
+    P.M: 5
+    P.C: 3
+
+    Titulo: Fichas de Informações
+    Descrição: Fichas de Informações de Segurança de Produtos Químicos (FISPQ) em local visível e de fácil 
+    acesso
+    P.M: 5
+    P.C: 3
+
+    Titulo: Identificação dos Produtos 
+    Descrição: Produtos químicos devidamente identificados e armazenados
+    P.M: 5
+    P.C: 5
+
+# Comportamento 
+    Titulo: Trabalhar em equipe 
+    Descrição: Evitar trabalhar sozinho no laboratório
+    P.M: 8
+    P.C: 5
+
+    Titulo: Utilização correta dos equipamentos
+    Descrição: Usar corretamente os equipamentos
+    P.M: 10
+    P.C: 5
+
+    Titulo: Sem alimentos
+    Descrição: Não comer, beber, preparar alimentos ou utilizar cosméticos no laboratório
+    P.M: 8
+    P.C: 3
+
+    Titulo: Sem celular
+    Descrição: Não atender celular quando estiver dentro do laboratório
+    P.M: 5
+    P.C: 3
+
+    Titulo: Cuidado onde toca 
+    Descrição: Não manipular objetos de uso coletivo como, por exemplo, maçanetas e telefone, enquanto 
+    estiver usando luvas
+    P.M: 5
+    P.C: 2
+
+    Titulo: Cuidado ao transportar materiais
+    Descrição: Evitar transportar materiais químicos ou biológicos de um lugar para outro no laboratório
+    P.M: 5
+    P.C: 3
+
+    Titulo: Cuidado com o rosto 
+    Descrição: Evitar levar as mãos à boca, nariz, cabelo, olhos e ouvidos no laboratório
+    P.M: 5
+    P.C: 2
+
+    Titulo: Lavar as mãos
+    Descrição: Lavar as mãos antes e após os experimentos
+    P.M: 8
+    P.C: 3
+
+    Titulo: Organização
+    Descrição: Manter a organização na bancada
+    P.M: 5
+    P.C: 2
+
+    Titulo: Higienização
+    Descrição: Higienização e limpeza adequada do ambiente
+    P.M: 8
+    P.C: 5
+
+# Laboratorio
+    Titulo: EPCs
+    Descrição: O laboratório deve possuir os devidos EPCs
+    P.M: 8
+    P.C: 8
+
+    Titulo: Iluminação
+    Descrição: O laboratório deve ser bem iluminado
+    P.M: 5
+    P.C: 5
+
+    Titulo: Sinalização de emergência
+    Descrição: O laboratório deve possuir a sinalização de emergência
+    P.M: 5
+    P.C: 5
+
+    Titulo: Identificação das tomadas
+    Descrição: No laboratório as tomdas devem estar identificadas quanto à voltagem delas
+    P.M: 5
+    P.C: 5
+
+    Titulo: Equipamentos de risco em área segura
+    Descrição: No laboratório os equipamentos de risco devem estar dispostos em área segura
+    P.M: 8
+    P.C: 8
+
+    Titulo: Extintores
+    Descrição: No laboratório os extintores devem estar dentro do prazo de validade e com pressão dentro dos limites de normalidade
+    P.M: 8
+    P.C: 5
